@@ -113,13 +113,15 @@ a{
 .exp-section{
     height: 100vh;
     text-align: center;
+    padding: 5% 5%;
+    
 }
 .single-experience{
-    width: 37%;
-    height: 60vh;
+    width: 30vw;
+    height: 52vh;
     float: left;
-    margin-left: 5%;
-    padding: 1vh 1vw;
+    margin: 0 6%;
+    padding: 15px;
     box-shadow: 1px 1px 10px whitesmoke;
     border-left: 9px solid;
     border-radius: 15px;
